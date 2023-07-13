@@ -1,9 +1,21 @@
 # Hi there, I'm Demegorash! :wave:
 
+```js
+const Demegorash = {
+  pronouns: "he" | "him",
+  code: [Python, HTML, CSS, Javascript],
+  tools: [TBD],
+  Hobbies: [Pentesting],
+}
+```
+
 <img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Demegorash&show_icons=true&theme=radical"/>
 
 <img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demegorash&layout=compact"/>
 
-# My Blog: :books:
+## You can find me on :earth_americas:
 
-## https://demegorash.blogspot.com
+- [Blog] (https://demegorash.blogspot.com)
+- [Twitter] (https://twitter.com/demegorash)
+- [Youtube] (https://youtube.com/demegorash)
+
