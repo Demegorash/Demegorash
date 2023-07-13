@@ -2,9 +2,9 @@
 
 # Hi there, I'm Demegorash! :wave:
 
-## I am learning how to code!!!
+## I'm a passionate learner and aspiring developer. Currently focusing on Python, CSS, HTML, and JavaScript, I'm enthusiastic about building interactive and dynamic web applications. I have a knack for quickly grasping new concepts and enjoy diving deep into the world of programming. As I continue my learning journey, I'm excited to collaborate with like-minded individuals and contribute to innovative projects. Let's code together! 💻🚀
 
-## I'm a fast learner, currently studing HTML, CSS, JavaScript, Python and running some interesting Pentesting as well!!!
+### I also love Pentesting!!!
 
 ```js
 const Demegorash = {
