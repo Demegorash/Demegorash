@@ -1,4 +1,10 @@
+![I am learning how to code!!!](https://github.com/Demegorash/Demegorash/assets/107815429/f4ef4489-7854-459d-9085-1cdc6fcee944))
+
 # Hi there, I'm Demegorash! :wave:
+
+#### I am learning how to code!!!
+
+## I'm a fast learner, currently studing HTML, CSS, JavaScript, Python and running some intersting Pentesting as well!!!
 
 ```js
 const Demegorash = {
@@ -15,6 +21,19 @@ const Demegorash = {
 
 ## You can find me on :earth_americas:
 
-- [Blog] (https://demegorash.blogspot.com)
-- [Twitter] (https://twitter.com/demegorash)
-- [Youtube] (https://youtube.com/demegorash)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Demegorash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/demegorash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/demegorash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/demegorash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/demegorash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://demegorash.blogspot.com)  
+
+
+Skills: / HTML / CSS / JavaScript / Python/ Pentesting
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Pentesting. 
+- 👯 I’m looking to collaborate on Everything I can!!! 
+- 💬 Ask me about How is the wheather in Costa Rica!!! 
+- ⚡ Fun fact: I speak Spanish, I can teach you!!! 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Demegorash)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/Demegorash)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Demegorash)  
