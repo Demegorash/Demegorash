@@ -18,4 +18,3 @@ const Demegorash = {
 - [Blog] (https://demegorash.blogspot.com)
 - [Twitter] (https://twitter.com/demegorash)
 - [Youtube] (https://youtube.com/demegorash)
-
