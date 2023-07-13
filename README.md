@@ -1,4 +1,4 @@
-![I am learning how to code!!!](https://github.com/Demegorash/Demegorash/assets/107815429/f4ef4489-7854-459d-9085-1cdc6fcee944))
+![I am learning how to code!!!](https://github.com/Demegorash/Demegorash/assets/107815429/f4ef4489-7854-459d-9085-1cdc6fcee944)
 
 # Hi there, I'm Demegorash! :wave:
 
