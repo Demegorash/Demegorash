@@ -1,10 +1,10 @@
-![I am learning how to code!!!](https://github.com/Demegorash/Demegorash/assets/107815429/f4ef4489-7854-459d-9085-1cdc6fcee944)
+![Learning how to code!!!](https://github.com/Demegorash/Demegorash/assets/107815429/f4ef4489-7854-459d-9085-1cdc6fcee944)
 
 # Hi there, I'm Demegorash! :wave:
 
-## I'm a passionate learner and aspiring developer. Currently focusing on Python, CSS, HTML, and JavaScript, I'm enthusiastic about building interactive and dynamic web applications. I have a knack for quickly grasping new concepts and enjoy diving deep into the world of programming. As I continue my learning journey, I'm excited to collaborate with like-minded individuals and contribute to innovative projects. Let's code together! 💻🚀
+## A passionate learner and aspiring developer. Currently focusing on Python, CSS, HTML, and JavaScript. Enthusiastic about building interactive and dynamic web applications. Looking for grasping new concepts and enjoy diving deep into the world of programming. Enjoy my learning journey.  Excited to collaborate with like-minded individuals and contribute to innovative projects. Let's code together! 💻🚀
 
-### I also love Pentesting!!!
+### Also love Pentesting!!!
 
 ```js
 const Demegorash = {
@@ -26,9 +26,9 @@ const Demegorash = {
 
 Skills: / HTML / CSS / JavaScript / Python/ Pentesting
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Pentesting. 
-- 👯 I’m looking to collaborate on Everything I can!!! 
+- 🔭 Currently working on this page. 
+- 🌱 Currently learning HTML, CSS, JavaScript, Python, Pentesting. 
+- 👯 Looking to collaborate on Everything I can!!! 
 - 💬 Ask me about How is the wheather in Costa Rica!!! 
 - ⚡ Fun fact: I speak Spanish, I can teach you!!! 
 
