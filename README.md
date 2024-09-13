@@ -8,10 +8,10 @@
 
 ```js
 const Demegorash = {
-  code: [Python, HTML, CSS, Javascript];
-  tools: [Computer, Internet, My Mind, Willing to Learn, My Brain];
-  Hobbies: [Pentesting, CyberSecurity, Learn to Program, Play Games, Magic The Gathering, Read and Learn a Lot]
-}
+  code: ["Python", "HTML", "CSS", "Javascript"],
+  tools: ["Computer", "Internet", "My Mind", "Willing to Learn", "My Brain"],
+  hobbies: ["Pentesting", "CyberSecurity", "Learn to Program", "Play Games", "Magic The Gathering", "Read and Learn a Lot"]
+};
 ```
 
 <img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Demegorash&show_icons=true&theme=radical"/>
