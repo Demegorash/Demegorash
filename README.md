@@ -8,10 +8,9 @@
 
 ```js
 const Demegorash = {
-  pronouns: "he" | "him",
-  code: [Python, HTML, CSS, Javascript],
-  tools: [TBD],
-  Hobbies: [Pentesting],
+  code: [Python, HTML, CSS, Javascript];
+  tools: [Computer, Internet, My Mind, Willing to Learn, My Brain];
+  Hobbies: [Pentesting, CyberSecurity, Learn to Program, Play Games, Magic The Gathering, Read and Learn a Lot]
 }
 ```
 
