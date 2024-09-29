@@ -4,7 +4,7 @@
 
 ## A passionate learner and aspiring developer. Currently focusing on Python, CSS, HTML, and JavaScript. Enthusiastic about building interactive and dynamic web applications. Looking for grasping new concepts and enjoy diving deep into the world of programming. Enjoy my learning journey.  Excited to collaborate with like-minded individuals and contribute to innovative projects. Let's code together! 💻🚀
 
-## Make sure to follow my YouTube channel, my Blog and this repository.  I would love to help you as well I got help in the past, even when I am learning!
+## Make sure to follow my YouTube channel (https://www.youtube.com/@demegorash), my Blog and this repository.  I would love to help you as well I got help in the past, even when I am learning!
 
 ### Also love Pentesting!!!
 
