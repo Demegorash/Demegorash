@@ -6,7 +6,7 @@
 
 ## Make sure to follow my YouTube channel (https://www.youtube.com/@demegorash), my Blog and this repository.  I would love to help you as well I got help in the past, even when I am learning!
 
-### Also love Pentesting!!!
+### Also love Pentesting!
 
 ```js
 const Demegorash = {
@@ -38,6 +38,3 @@ Skills: / HTML / CSS / JavaScript / Python/ Pentesting
 ![GitHub metrics](https://metrics.lecoq.io/Demegorash)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Demegorash)
-
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
