@@ -38,8 +38,8 @@ Skills: / HTML / CSS / JavaScript / Python/ Pentesting
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Demegorash)
 
-### Lorem ipsum. Lorem ipsum. Lorem ipsum.
+### Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
   
-### Lorem ipsum amet. Lorem dolor sit amet.
+### Lorem ipsum amet. Lorem dolor sit amet. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
 
-### Lorem dolor sit amet. Lorem dolor sit amet.
+### Lorem dolor sit amet. Lorem dolor sit amet. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
