@@ -19,7 +19,7 @@ const Demegorash = {
 <img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Demegorash&show_icons=true&theme=radical"/>
 
 <img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demegorash&layout=compact"/>
-
+ 
 ## You can find me on :earth_americas:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='24' height='24'>](https://github.com/Demegorash)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='24' height='24'>](https://www.linkedin.com/in/demegorash/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='24' height='24'>](https://www.facebook.com/demegorash)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='24' height='24'>](https://twitter.com/demegorash)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' width='24' height='24'>](https://www.youtube.com/@demegorash/featured)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='24' height='24'>](https://demegorash.blogspot.com)
@@ -38,6 +38,6 @@ Skills: / HTML / CSS / JavaScript / Python/ Pentesting
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Demegorash)
 
-### Lorem ipsum. Lorem ipsum. Lorem ipsum.
-### Lorem ipsum. Lorem ipsum. Lorem ipsum.
-### Lorem ipsum. Lorem ipsum. Lorem ipsum.
+### Lorem ipsum. Lorem ipsum.
+### Lorem ipsum. Lorem ipsum.
+### Lorem ipsum. Lorem ipsum.
